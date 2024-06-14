@@ -8,6 +8,7 @@ class DaraDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hello Word");
 	}
 
 }
