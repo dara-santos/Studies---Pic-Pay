@@ -1,0 +1,5 @@
+
+git log - ver logs
+git mv - pode mudar o nome do arquivo e mover para outro lugar
+git checkout - retornar o estado atual
+git reset  -- hard "oring/main" - resetar as mudanças
